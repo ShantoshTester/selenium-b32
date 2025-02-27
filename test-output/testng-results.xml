@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-26T07:45:14 IST" name="Default suite" finished-at="2025-02-26T07:45:14 IST" duration-ms="69">
+    <groups>
+    </groups>
+    <test started-at="2025-02-26T07:45:14 IST" name="Default test" finished-at="2025-02-26T07:45:14 IST" duration-ms="69">
+      <class name="tngannotations.TestAnnotations">
+        <test-method is-config="true" signature="setupSuite()[pri:0, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="setupSuite" finished-at="2025-02-26T07:45:14 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="beforeTest" finished-at="2025-02-26T07:45:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="clearBrowserConfig()[pri:0, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="clearBrowserConfig" finished-at="2025-02-26T07:45:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearBrowserConfig -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="setUp" finished-at="2025-02-26T07:45:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testOne()[pri:1, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="testOne" finished-at="2025-02-26T07:45:14 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="tearDown" finished-at="2025-02-26T07:45:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testTwo()[pri:2, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="testTwo" finished-at="2025-02-26T07:45:14 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="setUp" finished-at="2025-02-26T07:45:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="tearDown" finished-at="2025-02-26T07:45:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="setUp" finished-at="2025-02-26T07:45:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testThree()[pri:3, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="testThree" finished-at="2025-02-26T07:45:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="tearDown" finished-at="2025-02-26T07:45:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="afterTest" finished-at="2025-02-26T07:45:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="afterClass" finished-at="2025-02-26T07:45:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:tngannotations.TestAnnotations@12aba8be]" started-at="2025-02-26T07:45:14 IST" name="flushReport" finished-at="2025-02-26T07:45:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- tngannotations.TestAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
